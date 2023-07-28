@@ -1,0 +1,52 @@
+# Xcode
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# Build products
+build/
+DerivedData/
+
+# Pods (CocoaPods)
+Pods/
+Podfile.lock
+Podfile.oss
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.build/
+Packages/
+
+# Deployment
+*.ipa
+*.xcarchive
+
+# Caches and logs
+*.DS_Store
+*.swp
+*.lock
+*.log
+*.xcactivitylog
+profile
+
+# Code coverage
+*.xcresult
+*.xccoverage
+*.gcda
+*.gcno
+
+# Code documentation
+*.docset
+
+# Generated files
+*.hmap
+*.dSYM.zip
+*.dSYM
+
+# Misc
+.idea/
+.vscode/
+*.playground
+*.playgroundlstr
