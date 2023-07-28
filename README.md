@@ -14,6 +14,7 @@ Welcome to Jointwise, an iOS application designed to help people affected by rhe
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Acknowledgments](#acknolegments)
 
 ## Introduction
 
@@ -68,12 +69,12 @@ Please follow coding standards, write unit tests, and ensure all tests pass befo
 
 ## License
 
-Jointwise is open-source software released under the [MIT License](https://opensource.org/licenses/MIT).
+Jointwise is open-source software released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
-## Contact
 
-For any questions or feedback, please email us at federicatopazio88@gmail.com or open an issue on GitHub.
+## Acknowledgments
 
-Join us in our mission to empower individuals living with rheumatoid arthritis to take control of their joint health with Jointwise!
-
+We would like to thank the following contributors for their valuable input and support:
+https://github.com/carekit-apple/WWDC21-RecoverApp
+Biagio Marra (@Bigy115)
 
